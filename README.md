@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF00&center=true&vcenter=true&width=500&lines=System.init();>_ Hacker Mode: ON;Building scalable code...;Welcome to my terminal." alt="Typing SVG" />
-</h1>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Diego%20%7C%20Software%20Developer&fontSize=30&fontColor=00FF00" />

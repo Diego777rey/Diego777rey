@@ -1,9 +1,11 @@
-<img width="640" height="519" alt="EFC69CFB-1FA9-4D70-B053-CCEC7D033681 thumb gif 1627beaa8e419ab59f781dce4993187b" src="https://github.com/user-attachments/assets/a67d8af1-1d9c-4650-a1ac-72bb8112c67c" />
-
+<p align="center">
+  <img width="640" height="519" alt="Hacker GIF" src="https://github.com/user-attachments/assets/a67d8af1-1d9c-4650-a1ac-72bb8112c67c" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Diego%20%7C%20Software%20Developer&fontSize=30&fontColor=00FF00" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Diego%20Paulinho%20Amarilla%20Mercado&fontSize=24&fontColor=00FF00" />
 </p>
+
 ### 💻 Tech Stack
 
 ### 🚀 Tecnologías

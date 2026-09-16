@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Diego%20Paulinho%20Amarilla%20Mercado&fontSize=24&fontColor=00FF00" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF00&center=true&vcenter=true&width=700&height=80&lines=Diego+Paulinho+Amarilla+Mercado;Software+Developer" alt="Typing SVG" />
 </p>
 
 ### 💻 Tech Stack
